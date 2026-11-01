@@ -46,7 +46,7 @@
    <sub><b>Yan Liu</b>, et al.</sub> | *Electrochemistry Communications*, 2017.
 7. **Multifunctional DNA hydrogels with light-triggered gas-therapy and controlled G-Exos release for infected wound healing**
    <br/>
-  <sub><b>Yuyun Ye</b>,  <b>Yan Liu</b>, et al.</sub> | *Bioactive Materials*, 2025.
+  <sub><b>Yuyun Ye$^1$</b>,  <b>Yan Liu$^1$</b>, et al.</sub> | *Bioactive Materials*, 2025.
 8. **Modular Reconfigurable DNA Origami: From Two-Dimensional to Three‐Dimensional Structures**
    <br/>
    <sub><b>Yan Liu*</b>, et al.</sub> | *Angewandte Chemie International Edition*, 2020.
