@@ -47,15 +47,15 @@
 7. **Multifunctional DNA hydrogels with light-triggered gas-therapy and controlled G-Exos release for infected wound healing**
    <br/>
   <sub><b>Yuyun Ye</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Bioactive Materials*, 2025.
-8. **Modular Reconfigurable DNA Origami: From Two-Dimensional to Three‐Dimensional Structures**
+8. **Self-assembled methodologies for the construction of DNA nanostructures and biological applications**
    <br/>
-   <sub><b>Yan Liu*</b>, et al.</sub> | *Angewandte Chemie International Edition*, 2020.
-9. **A novel signal amplification strategy for highly specific and nonenzymatic isothermal electrochemiluminescence detection of tumour markers**
+   <sub><b>Rui Ye</b><sup>1</sup>, <b>Yuqi Wang</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Biomaterials Science*, 2024.
+9. **Functional probes for the diagnosis and treatment of infectious diseases**
    <br/>
-   <sub><b>Yan Liu</b>, et al.</sub> | *Analytical Methods*, 2020.
-10. **Microfluidic-Assisted Self-Assembly of Embodied Intelligent Diagnostic Hardware**
+    <sub><b>Zhijin Fan</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Aggregate*, 2024.
+10. **Early monitoring-to-warning internet of things system for emerging infectious diseases via networking of light-triggered point-of-care testing devices**
    <br/>
-   <sub><b>Yan Liu</b>, et al.</sub> | *Biosensors and Bioelectronics*, 2018.
+  <sub><b>Yu Fu</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Exploration*, 2023.
 
 ---
 
