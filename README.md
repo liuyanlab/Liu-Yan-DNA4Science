@@ -13,7 +13,7 @@
 
 Recipient of the Outstanding Doctoral Development Scholarship at Shanghai Jiao Tong University. My research primarily focuses on nucleic acid chemistry and molecular diagnostics, dedicated to developing intelligent DNA molecular machines to address critical challenges in disease diagnosis. My work emphasizes early detection of malignant tumors, smart screening methods for low-abundance tumor biomarkers, and advanced detection assays for foodborne pathogens. 
 
-I have published 10 SCI papers as first author (including co-first authors) in leading journals such as *Angewandte Chemie* and *Small Structures*, alongside over 10 co-authored papers in journals including *JACS* and *Nature Communications*, accumulating more than 600 total citations.
+I have published 10 SCI papers as first author (including co-first authors) in leading journals such as *Angewandte Chemie* and *Small Structures*, alongside over 10 co-authored papers in journals including *JACS* and *Nature Communications*, accumulating more than 1000 total citations.
 ---
 
 ### 📄 Featured Publications
