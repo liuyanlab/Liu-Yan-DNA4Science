@@ -2,9 +2,10 @@
 
 🔬 **Research Fellow** @ Institute for Health Innovation & Technology (iHealthtech), **National University of Singapore (NUS)**
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@nus.edu.sg)
+- 🌱 I’m currently working on using DNA nanotechnology for life sciece analysis
+- 👯 I’m looking to collaborate on using AI and other techniques to design DNA nanostructures (from bottom design to real nanostructures), and for further top-down applications.
+- 💬 Ask me about science, technology and life
+- 📫 How to reach me: liuyan27881@gmail.com
 
 > 💡 *Focusing on Dynamic DNA Nanotechnology, Topological DNA Probes, Mechanochemical Logic Circuits, Microfluidics & Smart POCT Hardware.*
 
@@ -12,94 +13,19 @@
 
 ## 📄 Featured Publications
 
-<table>
 
-  <!-- Paper 1 -->
-  <tr>
-    <td width="35%">
-      <img src="https://via.placeholder.com/400x250.png?text=Graphical+Abstract+1" alt="Graphical Abstract 1" width="100%"/>
-    </td>
-    <td width="65%">
-      <b>Topological DNA Nanostructures with Reconfigurable Mechanochemical Logic Circuits</b><br/>
-      <sub><b>Yan Liu</b>, Co-Authors, Corresponding Author*</sub><br/>
-      <i><b>Journal of the American Chemical Society (JACS)</b>, 2026</i><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Code-Repository-black?style=flat-square&logo=github" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/DOI-10.1021%2Fjacs.xxxx-blue?style=flat-square" /></a>
-      <br/><br/>
-      📌 <b>Core Innovation:</b> Developed dynamic 4x12 DNA origami arrays governed by multi-trigger strands, achieving precise mechanochemical control and kinetic trapping across metastable state transitions.
-    </td>
-  </tr>
 
-  <!-- Paper 2 -->
-  <tr>
-    <td width="35%">
-      <img src="https://via.placeholder.com/400x250.png?text=Graphical+Abstract+2" alt="Graphical Abstract 2" width="100%"/>
-    </td>
-    <td width="65%">
-      <b>Dual-Aptamer DNA Logic Tiles for High-Specificity Extracellular Vesicle Detection</b><br/>
-      <sub><b>Yan Liu</b>, Co-Authors, Corresponding Author*</sub><br/>
-      <i><b>Angewandte Chemie International Edition</b>, 2025</i><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/DOI-10.1002%2Fanie.xxxx-blue?style=flat-square" /></a>
-      <br/><br/>
-      📌 <b>Core Innovation:</b> Engineered a 15 nm spatial distance-matching DX tile system featuring AND-gate logic to drastically enhance specificity in EV biomarker profiling.
-    </td>
-  </tr>
-
-  <!-- Paper 3 -->
-  <tr>
-    <td width="35%">
-      <img src="https://via.placeholder.com/400x250.png?text=Graphical+Abstract+3" alt="Graphical Abstract 3" width="100%"/>
-    </td>
-    <td width="65%">
-      <b>Cas12a crRNA Blocker-Hairpin Switches for Zero-Background Signal Amplification</b><br/>
-      <sub><b>Yan Liu*</b>, Co-Authors, Corresponding Author</sub><br/>
-      <i><b>Nature Communications</b>, 2025</i><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41467-blue?style=flat-square" /></a>
-      <br/><br/>
-      📌 <b>Core Innovation:</b> Utilized 2'-OMe chemical modifications and PAM region control to eliminate background trans-cleavage signal leakage in CRISPR-based POCT biosensing.
-    </td>
-  </tr>
-
-  <!-- Paper 4 -->
-  <tr>
-    <td width="35%">
-      <img src="https://via.placeholder.com/400x250.png?text=Graphical+Abstract+4" alt="Graphical Abstract 4" width="100%"/>
-    </td>
-    <td width="65%">
-      <b>Universal Topological DNA Probes Integrated with HCR and AIE Fluorophores for Multi-Bacterial Detection</b><br/>
-      <sub><b>Yan Liu</b>, Co-Authors, Corresponding Author*</sub><br/>
-      <i><b>Biosensors and Bioelectronics</b>, 2024</i><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.bios.xxxx-blue?style=flat-square" /></a>
-      <br/><br/>
-      📌 <b>Core Innovation:</b> Combined topological DNA amplification with aggregation-induced emission (AIE) fluorophores for highly sensitive pathogens identification.
-    </td>
-  </tr>
-
-  <!-- Paper 5 -->
-  <tr>
-    <td width="35%">
-      <img src="https://via.placeholder.com/400x250.png?text=Graphical+Abstract+5" alt="Graphical Abstract 5" width="100%"/>
-    </td>
-    <td width="65%">
-      <b>Microfluidic-Assisted Self-Assembly of Embodied Intelligent Diagnostic Hardware</b><br/>
-      <sub><b>Yan Liu</b>, Co-Authors, Corresponding Author*</sub><br/>
-      <i><b>Cell Reports Physical Science</b>, 2024</i><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.xcrp.xxxx-blue?style=flat-square" /></a>
-      <br/><br/>
-      📌 <b>Core Innovation:</b> Integrated nanoscale nucleic acid logic circuits with microfluidic chips for automated POCT signal detection.
-    </td>
-  </tr>
+* **Y. Ye**$^1$, **Y. Liu**$^1$, S. Ma$^1$, X. Li$^1$, W. Wang, X. Chen, J. Zheng, Z. Fan, Y. Jiang, and Y. Liao, "Multifunctional DNA hydrogels with light-triggered gas-therapy and controlled G-Exos release for infected wound healing," *Bioactive Materials*, vol. 52, pp. 422–437, 2025.[cite: 25]
+* Z. Fan$^1$, **Y. Liu**$^1$, Y. Ye, and Y. Liao, "Functional probes for the diagnosis and treatment of infectious diseases," *Aggregate*, vol. 5, no. 5, p. e620, 2024.[cite: 2, 24]
+* Y. Fu, **Y. Liu**, W. Song, D. Yang, W. Wu, X. Yang, J. Zeng, L. Rong, J. Xia, H. Lei, R. Yang, M. Zhang, Y. Lin, and Y. Liao, "Early monitoring-to-warning Internet of Things system for emerging infectious diseases via networking of light-triggered point-of-care testing devices," *Exploration*, vol. 3, no. 5, p. 20230028, 2023.[cite: 41, 54]
+* **Y. Liu**, J. Cheng, Y. Wang, B. Ji, L. Tang, K. Zou, Y. Xie, D. Cui, Y. Ke, and J. Song, "Seeded growth of adaptive tiles on DNA origami," *Cell Reports Physical Science*, vol. 3, no. 9, p. 101040, 2022.[cite: 55, 56]
+* **Y. Liu**, H. Ge, Y. Wang, L. Tang, Y. Pei, S. Fan, Y. Song, C. Zhang, and J. Song, "Multistep transformations of DNA origami domino array via mechanical forces," *Small Structures*, vol. 4, no. 2, p. 2200167, 2023.[cite: 67, 74]
 
 </table>
 
 ---
 
-## 📚 Selected Journal Articles (Full List)
+### 📚 Selected Journal Articles (Full List)
 
 1. **Topological DNA Nanostructures with Reconfigurable Mechanochemical Logic Circuits**
    <br/>
