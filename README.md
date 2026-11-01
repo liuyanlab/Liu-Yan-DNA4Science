@@ -26,21 +26,36 @@
 
 ### 📚 Selected Journal Articles (Full List)
 
-1. **Nucleic acid nanomaterials: Mechanisms and strategies for regulating innate immune activation**
+1. **Multistep transformations of DNA origami domino array via mechanical forces**
    <br/>
-   <sub><b>Yan Liu</b>, et al.</sub> | *JACS*, 2026.
-2. **Dual-Aptamer DNA Logic Tiles for High-Specificity Extracellular Vesicle Detection**
+   <sub><b>Yan Liu</b>, et al.</sub> | *Small Structures*, 2023.
+2. **Seeded growth of adaptive tiles on DNA origami**
    <br/>
-   <sub><b>Yan Liu</b>, et al.</sub> | *Angewandte Chemie*, 2025.
-3. **Cas12a crRNA Blocker-Hairpin Switches for Zero-Background Signal Amplification**
+   <sub><b>Yan Liu</b>, et al.</sub> | *Cell Reports Physical Science*, 2022.
+3. **Modular Reconfigurable DNA Origami: From Two-Dimensional to Three‐Dimensional Structures**
    <br/>
-   <sub><b>Yan Liu*</b>, et al.</sub> | *Nature Communications*, 2025.
-4. **Universal Topological DNA Probes Integrated with HCR and AIE Fluorophores for Multi-Bacterial Detection**
+   <sub><b>Yan Liu*</b>, et al.</sub> | *Angewandte Chemie International Edition*, 2020.
+4. **A novel signal amplification strategy for highly specific and nonenzymatic isothermal electrochemiluminescence detection of tumour markers**
    <br/>
-   <sub><b>Yan Liu</b>, et al.</sub> | *Biosensors and Bioelectronics*, 2024.
+   <sub><b>Yan Liu</b>, et al.</sub> | *Analytical Methods*, 2020.
 5. **Microfluidic-Assisted Self-Assembly of Embodied Intelligent Diagnostic Hardware**
    <br/>
-   <sub><b>Yan Liu</b>, et al.</sub> | *Cell Reports Physical Science*, 2024.
+   <sub><b>Yan Liu</b>, et al.</sub> | *Biosensors and Bioelectronics*, 2018.
+6. **A novel universal signal amplification probe-based electrochemiluminescence assay for sensitive detection of pathogenic bacteria**
+   <br/>
+   <sub><b>Yan Liu</b>, et al.</sub> | *Electrochemistry Communications*, 2017.
+7. **Multifunctional DNA hydrogels with light-triggered gas-therapy and controlled G-Exos release for infected wound healing**
+   <br/>
+  <sub><b>Yuyun Ye</b>,  <sub><b>Yan Liu</b>, et al.</sub> | *Bioactive Materials*, 2025.
+8. **Modular Reconfigurable DNA Origami: From Two-Dimensional to Three‐Dimensional Structures**
+   <br/>
+   <sub><b>Yan Liu*</b>, et al.</sub> | *Angewandte Chemie International Edition*, 2020.
+9. **A novel signal amplification strategy for highly specific and nonenzymatic isothermal electrochemiluminescence detection of tumour markers**
+   <br/>
+   <sub><b>Yan Liu</b>, et al.</sub> | *Analytical Methods*, 2020.
+10. **Microfluidic-Assisted Self-Assembly of Embodied Intelligent Diagnostic Hardware**
+   <br/>
+   <sub><b>Yan Liu</b>, et al.</sub> | *Biosensors and Bioelectronics*, 2018.
 
 ---
 
