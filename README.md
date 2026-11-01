@@ -55,7 +55,7 @@
     <sub><b>Zhijin Fan</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Aggregate*, 2024.
 10. **Early monitoring-to-warning internet of things system for emerging infectious diseases via networking of light-triggered point-of-care testing devices**
    <br/>
-  <sub><b>Yu Fu</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Exploration*, 2023.
+   <sub><b>Yu Fu</b><sup>1</sup>, <b>Yan Liu</b><sup>1</sup>, et al.</sub> | *Exploration*, 2023.
 
 ---
 
