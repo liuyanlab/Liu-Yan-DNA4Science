@@ -9,9 +9,14 @@
 
 > 💡 *Focusing on Dynamic DNA Nanotechnology, Topological DNA Probes, Mechanochemical Logic Circuits, Microfluidics & Smart POCT Hardware.*
 
+## About Me
+
+Recipient of the Outstanding Doctoral Development Scholarship at Shanghai Jiao Tong University. My research primarily focuses on nucleic acid chemistry and molecular diagnostics, dedicated to developing intelligent DNA molecular machines to address critical challenges in disease diagnosis. My work emphasizes early detection of malignant tumors, smart screening methods for low-abundance tumor biomarkers, and advanced detection assays for foodborne pathogens. 
+
+I have published 10 SCI papers as first author (including co-first authors) in leading journals such as *Angewandte Chemie* and *Small Structures*, alongside over 10 co-authored papers in journals including *JACS* and *Nature Communications*, accumulating more than 600 total citations.
 ---
 
-## 📄 Featured Publications
+### 📄 Featured Publications
 
 * **Y. Ye**$^1$, **Y. Liu**$^1$, S. Ma, X. Li, W. Wang, X. Chen, J. Zheng, Z. Fan, Y. Jiang, and Y. Liao, "Multifunctional DNA hydrogels with light-triggered gas-therapy and controlled G-Exos release for infected wound healing," *Bioactive Materials*, vol. 52, pp. 422–437, 2025.[cite: 25]
 * **Z. Fan**$^1$, **Y. Liu**$^1$, Y. Ye, and Y. Liao, "Functional probes for the diagnosis and treatment of infectious diseases," *Aggregate*, vol. 5, no. 5, p. e620, 2024.[cite: 2, 24]
@@ -24,7 +29,7 @@
 
 ---
 
-### 📚 Selected Journal Articles (Full List)
+#### 📚 Selected Journal Articles (Full List)
 
 1. **Multistep transformations of DNA origami domino array via mechanical forces**
    <br/>
